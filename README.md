@@ -9,9 +9,9 @@
 <div align="center">
 <img width="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 </div>
-- 🌱 I’m currently learning **Next js,TypeScript,AWS,Google Cloud,Kubernets**
+- 🌱 I’m currently learning " Next js, TypeScript, AWS, Google Cloud, Kubernets "
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skill Sets</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="33" height="33"/> 
