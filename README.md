@@ -1,7 +1,7 @@
 
  <img width="8000" src="https://e0.pxfuel.com/wallpapers/33/543/desktop-wallpaper-programmer-funny-coding.jpg" /> 
 
-<h1 align="center">Hi 👋, I'm Saran Raj</h1>
+<h1 align="center">Hi 👋, I'M Saran Raj</h1>
 <h3 align="center">I'M a MERN Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saranraj3&label=Profile%20views&color=0e75b6&style=flat" alt="saranraj3" /> </p>
 
