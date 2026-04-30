@@ -22,14 +22,10 @@ This is my coding journey.
 - 🌱 I’m currently learning **AI/ML**  
 - 📫 Reach me at **saranrajcoder@gmail.com**
 
----
-
-<h3 align="center">Connect with me:</h3>
+<!-- <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <!-- Add links later (LinkedIn, Instagram, etc.) -->
-</p>
+</p> -->
 
----
 
 <h3 align="center">Languages and Tools:</h3>
 
