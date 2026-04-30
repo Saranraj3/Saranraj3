@@ -20,7 +20,7 @@ This is my coding journey.
 ---
 
 - 🌱 I’m currently learning **AI/ML**  
-- 📫 Reach me at **saranrajcoder@gmail.com**
+- 📫 Reach me at **www.saranrajcoder@gmail.com**
 
 <!-- <h3 align="center">Connect with me:</h3>
 <p align="center">
